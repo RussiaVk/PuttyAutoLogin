@@ -1,2 +1,2 @@
 # PuttyAutoLogin
-A script to login in your putty by one key
+A script to login in your putty with one key
